@@ -481,7 +481,7 @@ html[xmlns] .slides {display: block;}
 .flexslider li .FromBottom {transform: translateY(100%); -o-transform: translateY(100%); -ms-transform: translateY(100%); -webkit-transform: translateY(100%);}
 .flexslider li.flex-active-slide .FromBottom {opacity: 1; transform: translateY(0); -o-transform: translateY(0); -ms-transform: translateY(0); -webkit-transform: translateY(0);background-color: rgba(27, 25, 25, 0.5);}
 .flexslider li .FromLeft {transform: translateX(-100%); -o-transform: translateX(-100%); -ms-transform: translateX(-100%); -webkit-transform: translateX(-100%);}
-.flexslider li.flex-active-slide .FromLeft {opacity: 1; transform: translateX(0); -o-transform: translateX(0); -ms-transform: translateX(0); -webkit-transform: translateX(0);}
+.flexslider li.flex-active-slide .FromLeft {opacity: 1; transform: translateX(0); -o-transform: translateX(0); -ms-transform: translateX(0); -webkit-transform: translateX(0); background-color: rgba(27, 25, 25, 0.5);}
 .flexslider li .FromRight {transform: translateX(100%); -o-transform: translateX(100%); -ms-transform: translateX(100%); -webkit-transform: translateX(100%);}
 .flexslider li.flex-active-slide .FromRight {opacity: 1; transform: translateX(0); -o-transform: translateX(0); -ms-transform: translateX(0); -webkit-transform: translateX(0);}
 
